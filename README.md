@@ -41,3 +41,5 @@ This DAG runs **daily**, ensures dependencies between tasks, allows parallel exe
 ---
 
 *For more details, see the DAG code in `dags/pipeline.py`.*
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/A7medEhabb/Customer-data-Pipeline-using-Airflow)
