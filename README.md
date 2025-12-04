@@ -6,9 +6,10 @@ This project implements a **Customer Data Pipeline** using **Apache Airflow**. T
 ---
 
 ## 🖼 Pipeline Visualization
-![Pipeline Diagram](<img width="801" height="381" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/ea67e160-419c-45a5-bd3e-8546818d6b6d" />
+![Pipeline Diagram]
+(<img width="801" height="381" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/ea67e160-419c-45a5-bd3e-8546818d6b6d" />
 )
-*Replace `path_to_your_uploaded_image.png` with the actual image file name.*
+
 
 ---
 
@@ -17,9 +18,9 @@ This project implements a **Customer Data Pipeline** using **Apache Airflow**. T
 | Component | Purpose |
 |-----------|---------|
 | **create_tables** | Creates or resets PostgreSQL tables for customers, products, stores, and transactions. |
-| **generate_customers_data** | Generates synthetic customer data. |
-| **generate_product_data** | Generates synthetic product data. |
-| **generate_stores_data** | Generates synthetic store data. |
+| **generate_customers_data** | Generates synthetic customer data using Faker. |
+| **generate_product_data** | Generates synthetic product data using Faker. |
+| **generate_stores_data** | Generates synthetic store data using Faker. |
 | **generate_transaction_data** | Generates synthetic transaction records linking customers, products, and stores. |
 | **calculate_metrics** | Computes business KPIs from generated transaction data. |
 | **send_email** | Sends a daily report via email (using SendGrid). |
