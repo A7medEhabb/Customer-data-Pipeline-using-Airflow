@@ -38,6 +38,11 @@ The pipeline is defined as a **Directed Acyclic Graph (DAG)** in Airflow with th
 
 This DAG runs **daily**, ensures dependencies between tasks, allows parallel execution for data generation, and automates the entire workflow from data creation to reporting.
 
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-04-47" src="https://github.com/user-attachments/assets/396997bb-f63d-46b3-a98f-38538d824fd9" />
+
+
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-05-38" src="https://github.com/user-attachments/assets/cb7cc7f0-a3e0-4bb4-93c3-da93412d85d9" />
+
 ---
 
 *For more details, see the DAG code in `dags/pipeline.py`.*
