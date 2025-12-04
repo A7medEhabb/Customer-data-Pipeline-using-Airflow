@@ -6,9 +6,8 @@ This project implements a **Customer Data Pipeline** using **Apache Airflow**. T
 ---
 
 ## 🖼 Pipeline Visualization
-![Pipeline Diagram]
-(<img width="801" height="381" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/ea67e160-419c-45a5-bd3e-8546818d6b6d" />
-)
+<img width="801" height="381" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/ea67e160-419c-45a5-bd3e-8546818d6b6d" />
+
 
 
 ---
