@@ -1,2 +1,1 @@
-# Customer-data-Pipeline-using-Airflow
-This is an automated customer data pipeline using Apache Airflow.
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/A7medEhabb/Customer-data-Pipeline-using-Airflow)
